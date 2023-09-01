@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260645033127",
+    "project_id": "sims-66e20",
+    "storage_bucket": "sims-66e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260645033127:android:462d8f91eee4f40eccf782",
+        "android_client_info": {
+          "package_name": "com.example.simsfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260645033127-b85egon5vjuhlupitlniadk5noqcea84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUOlTzbUUtcXRp3ECCXqR8O0Ukc1iSTqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260645033127-b85egon5vjuhlupitlniadk5noqcea84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
